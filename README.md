@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @webdev-ka
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning AngularJS and ReactJS
-- 💞️ I’m looking to collaborate on web development.
-
+- 👋 Hi, I’m Kratika Agarwal
+- My primary Github account- https://github.com/kratikaagarwal
 
 <!---
 webdev-ka/webdev-ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

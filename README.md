@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kratika Agarwal
-- My primary Github account- https://github.com/kratikaagarwal
+- My second Github account- https://github.com/kratikaagarwal
 
 <!---
 webdev-ka/webdev-ka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
